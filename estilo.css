@@ -1,0 +1,9 @@
+ body{font-family: sans-serif; "Roboto"; "OpenSans";}
+ header{height: 1500x; color: red; background-color: #cecece;}
+
+  #articulo2{background-color: #cecece; font-style: oblique; width: 200px; padding: 10px;}
+  .parrafo{font-family: fantasy;}
+  .altura_footer {height: 30px; background-color: rgba(0,0,0,0.5);clear: both;}
+  a {color: red;}
+  a:hover{text-decoration: none; color: blue;}
+  .izquierda {float: left; position: relative;background-color: red;margin: 10px;}
